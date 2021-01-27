@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 h5py = "*"
 gym = "*"
+wandb = "*"
+keras-rl2 = "*"
+tensorflow = "*"
 
 [dev-packages]
 pylint = "*"
